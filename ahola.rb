@@ -1,5 +1,5 @@
 class Ahola < Formula
-  desc "The ultra-fast, dual-dialect systems programming language engine"
+  desc "Ahola programming language"
   homepage "https://github.com/secondcoolestguy/ahola"
   url "https://github.com/secondcoolestguy/ahola/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "e7f135b129b16217ea72b01f779baf9a004f78b17449cd44c88243fc63be210e"
