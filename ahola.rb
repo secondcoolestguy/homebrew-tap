@@ -2,7 +2,7 @@ class Ahola < Formula
   desc "Ahola programming language"
   homepage "https://github.com/secondcoolestguy/ahola"
   url "https://github.com/secondcoolestguy/ahola/archive/refs/tags/v0.0.1-pre.tar.gz"
-  sha256 "e7f135b129b16217ea72b01f779baf9a004f78b17449cd44c88243fc63be210e"
+  sha256 "77e13656618e78fb911874334db748b7ae145dcfde9ae08cae079c0b5d61379d"
   license "GPL-3.0-only"
 
   depends_on "rust" => :build
