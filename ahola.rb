@@ -7,8 +7,8 @@ class Ahola < Formula
 
   depends_on "rust" => :build
 
-  def install
-    system "rustc", "main.rs", "-o", "engine"
+def install
+    system "rustc", "src/main.rs", "-o", "engine"
     bin.install "engine" => "ahola"
   end
 
